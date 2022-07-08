@@ -2,8 +2,8 @@
 
 #EXTINF:-1 ,animado
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
-#EXTINF:-1 ,Tele-pelicula
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:-1 ,educa
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,chile-santiago
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8
 #EXTINF:-1 ,chavo
@@ -15,6 +15,6 @@ https://marine2.miplay.cl/tvn/playlist.m3u8
 #EXTINF:-1 ,Mega-porechita
 https://marine2.miplay.cl/mega/playlist.m3u8
 #EXTINF:-1 ,Canal-13-mochi
-https://marine2.miplay.cl/canal13/playlist.m3u8
-#EXTINF:-1 ,Elqui-Lucas
-https://video.streamingchilenos.cl:1936/8046/8046/playlist.m3u8
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 ,kid-Lucas
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
