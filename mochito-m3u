@@ -18,3 +18,9 @@ https://marine2.miplay.cl/mega/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 ,kid-Lucas
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Television
+http://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 ,Canal-peruanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 ,Canal-tele
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
