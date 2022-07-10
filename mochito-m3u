@@ -24,3 +24,23 @@ http://v2.tustreaming.cl/clicktv/playlist.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 ,Canal-tele
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,argentina
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 ,Canal-NetTv
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal-Paka-Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Canal-Dreiko
+https://stmv3.voxtvhd.com.br/dreiko/dreiko/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Canal-Peque
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal-Peque
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal-spor
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal-tukuman
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal-lima
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
