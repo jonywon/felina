@@ -8,8 +8,6 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8
 #EXTINF:-1 ,chavo
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 ,La red
-https://marine2.miplay.cl/lared/playlist.m3u8
 #EXTINF:-1 ,TVN-jacc
 https://marine2.miplay.cl/tvn/playlist.m3u8
 #EXTINF:-1 ,Mega-porechita
@@ -44,3 +42,15 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?Playl
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Canal-lima
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 ,RedBox
+https://www.protheme24x7.eu.org/2022/7/redbox-all-premium-iptv-channels-m3u8.html
+
+#EXTINF:-1 ,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 ,Megazine
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Stand-up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+
