@@ -251,5 +251,52 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 
 #EXTINF:-1, Energeet-Radio
-
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+
+#EXTINF:-1  ,Cibaeña
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1  ,Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 ,Claro-Vicion
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+
+#EXTINF:-1  ,CocoTv
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1  ,Cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1  ,El-Nueve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1  ,Estrella-Tv
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  ,HTV-live
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+
+#EXTINF:-1  ,La-Tacunga
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+
+#EXTINF:-1  ,Maxi-Vicion
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1  ,X-Level
+https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
+
+#EXTINF:-1  ,Deportes-Tv
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1  ,Contacto-Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1  ,TV-Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1  ,Wapa-Deportes
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+
+#EXTINF:-1  ,CDR
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
