@@ -1,4 +1,5 @@
 #EXTM3U
+****** Uso Personal *****
 
 #EXTINF:-1 ,Television
 http://v2.tustreaming.cl/clicktv/playlist.m3u8
@@ -389,8 +390,44 @@ http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1  ,Deportes
 http://45.166.92.22:58001/play/a05r/index.m3u8
 
+#EXTINF:-1 ,tigo-sport
+https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 ,Aficionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+
+#EXTINF: ,Claro-Sport-hd
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF: ,fox-sport-3
+http://167.250.222.35:16000/play/a07u/index.m3u8
+
+#EXTINF: ,ESPN
+https://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+
+#EXTINF: ,espn-premium
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
+
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
+
+#EXTINF: ,discovery-science-usa
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+
+#EXTINF: ,Golden
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF: ,Golden-plus
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+
+#EXTINF: ,Golden-premier
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF: ,edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF: ,De-pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 #EXTINF:-1  ,History
 http://45.166.92.22:58001/play/a038/index.m3u8
