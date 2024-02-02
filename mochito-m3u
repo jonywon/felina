@@ -238,10 +238,10 @@ https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Pro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 9 (70, 80, 90s)
 https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", FOX News Radio
+#EXTINF:-1 ,radio="true" tvg-logo="" group-title="Radios Online", FOX News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", ESPN Deportes Radio (Estados Unidos)
+#EXTINF:-1 ,radio="true" tvg-logo="" group-title="Radios Internacionales", ESPN Deportes Radio (Estados Unidos)
 http://edge.espn.cdn.abacast.net/espn-deportes-48
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YixQ4l.png" group-title="Canales Mexicanos", Telemar Campeche | SD
@@ -262,63 +262,61 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1, caribe
+#EXTINF:-1 ,caribe
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 
-#EXTINF:-1, freeTv-ar-vivo
+#EXTINF:-1 ,freeTv-ar-vivo
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
-#EXTINF:-1, Cine
+#EXTINF:-1 ,Cine
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1, 24horas-españa
+#EXTINF:-1 ,24horas-españa
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1, NegociosTv
+#EXTINF:-1 ,NegociosTv
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1, Top-latino
+#EXTINF:-1 ,Top-latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
-#EXTINF:-1, La-red
+#EXTINF:-1 ,La-red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, Cinecanal
+#EXTINF:-1 ,Cinecanal
 https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
 
-#EXTINF:-1, cine-series
+#EXTINF:-1 ,cine-series
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1, CartoonNetwork
-
+#EXTINF:-1 ,CartoonNetwork
 https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
 
-#EXTINF:-1, Latini-Kid
-
+#EXTINF:-1 ,Latino-Kid
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-1, El-Chavo
+#EXTINF:-1 ,El-Chavo
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1, ClodTv-Plus
+#EXTINF:-1 ,ClodTv-Plus
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
 
-#EXTINF:-1, TomyJerry
+#EXTINF:-1 ,TomyJerry
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
-#EXTINF:-1, Los-Pica-piedras
+#EXTINF:-1 ,Los-Pica-piedras
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
-#EXTINF:-1, Cine-Cartoon
+#EXTINF:-1 ,Cine-Cartoon
 https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
 
-#EXTINF:-1, Energeek
+#EXTINF:-1 ,Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1, Energeek-Infantil
+#EXTINF:-1 ,Energeek-Infantil
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1, Energeet-Animado
+#EXTINF:-1 ,Energeet-Animado
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 
 #EXTINF:-1, Energeet-Radio
@@ -396,37 +394,40 @@ https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 #EXTINF:-1 ,Aficionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-#EXTINF: ,Claro-Sport-hd
+#EXTINF:-1 ,Claro-Sport-hd
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF: ,fox-sport-3
+#EXTINF:-1 ,fox-sport-3
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
-#EXTINF: ,ESPN
+#EXTINF:-1 ,espn
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+
+#EXTINF:-1 ,ESPN
 https://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
-#EXTINF: ,espn-premium
+#EXTINF:-1 ,espn-premium
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
 
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF: ,discovery-science-usa
+#EXTINF:-1 ,discovery-science-usa
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
-#EXTINF: ,Golden
+#EXTINF:-1 ,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
-#EXTINF: ,Golden-plus
+#EXTINF:-1 ,Golden-plus
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
-#EXTINF: ,Golden-premier
+#EXTINF:-1 ,Golden-premier
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
-#EXTINF: ,edge
+#EXTINF:-1 ,edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF: ,De-pelicula
+#EXTINF:-1 ,De-pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 #EXTINF:-1  ,History
