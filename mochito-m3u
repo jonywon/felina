@@ -412,8 +412,11 @@ http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:-1 ,discovery-science-usa
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1 ,FUTBOL ESPAÑA 2
+https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
+
+#EXTINF:-1, FUTBOL ESPAÑA
+https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -435,3 +438,29 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 
 #EXTINF:-1  ,HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF: ,FUTBOL ESPAÑA 3
+https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
+
+#EXTINF:-1,Novelas de Oro
+https://linear-429.frequency.stream/429/hls/master/playlist.m3u8
+
+#EXTINF:-1,Telehit Musica
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
+
+#EXTINF:-1,ESTADIO TNT
+http://50.7.66.234:8080/moontools/6548@89787/6979
+
+#EXTINF:-1,TNT SPORTS 3
+http://50.7.66.234:8080/moontools/6548@89787/1068349
+
+#EXTINF:-1,CINP - STARZ WESTERN HD
+http://50.7.66.234:8080/moontools/6548@89787/8134
+
+#EXTINF:-1,UNIVERSAL PREMIER OESTE
+http://50.7.66.234:8080/moontools/6548@89787/1119201
+
+#EXTINF:-1,HBO PLUS +
+http://50.7.66.234:8080/moontools/6548@89787/4003
+
+
