@@ -483,3 +483,18 @@ https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1,tv1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1,Stadio-sd
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/130551
+
+#EXTINF:-1 ,Espn
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128773
+
+#EXTINF:-1 ,Esp
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132654
+
+#EXTINF:-1 ,hbo
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127142
+
+#EXTINF:-1 ,paramount
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127141
