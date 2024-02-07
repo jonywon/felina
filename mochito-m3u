@@ -448,40 +448,38 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,solo-bailalo
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
-#EXTINF:-1,TNT SPORTS 3
-http://50.7.66.234:8080/moontools/6548@89787/1068349
+#EXTINF:-1,Tv-exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,planeta-tv
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1,Lo Mejor Liga MX
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 
-#EXTINF:-1,GARAGE TV
-http://50.7.66.234:8080/moontools/6548@89787/4016
+#EXTINF:-1,Fox Sports 2
+http://181.78.4.186:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1,TEENNICK
-http://50.7.66.234:8080/moontools/6548@89787/4140
+#EXTINF:-1,Fox Sports 3
+http://181.78.4.186:8000/play/a0fh/index.m3u8
 
-#EXTINF:-1,CINEMA DINAMITA
-http://50.7.66.234:8080/moontools/6548@89787/4142
+#EXTINF:-1,ESPN 2
+http://181.78.4.186:8000/play/a0el/index.m3u8
 
-#EXTINF:-1,TVC DEPORTES
-http://50.7.66.234:8080/moontools/6548@89787/4139
+#EXTINF:-1,ESPN 4
+http://181.78.4.186:8000/play/a0fu/index.m3u8
 
-#EXTINF:-1,ESPN MX
-http://50.7.66.234:8080/moontools/6548@89787/3178
+#EXTINF:-1,esport4
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1,FOX SPORTS 1 HD (CHILE)
-http://50.7.66.234:8080/moontools/6548@89787/3612
+#EXTINF:-1,sport1
+http://seckin.cfd:8080/nailcex14c/mailxx45/137245
 
-#EXTINF:-1,ESPN 1 SUR HD
-http://50.7.66.234:8080/moontools/6548@89787/3614
+#EXTINF:-1,Eleven2
+http://jokerprotectd.xyz:8080/JoaoSilva/45465423/46519
 
-#EXTINF:-1,HBO XTREME
-http://50.7.66.234:8080/moontools/6548@89787/44341
+#EXTINF:-1,espn
+https://mlb.mrgamingstreams.com/espnd.m3u8
 
-#EXTINF:-1,CINP - MOVIE MAX
-http://50.7.66.234:8080/moontools/6548@89787/8144
+#EXTINF:-1,setanta
+https://tv.movielab.pro/942/video.m3u8
 
-#EXTINF:-1,ESTADIO TNT
-http://50.7.66.234:8080/moontools/6548@89787/6979
-
-
+#EXTINF:-1,tv1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
