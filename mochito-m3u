@@ -217,26 +217,26 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Canales de Cultura", H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="Canales de Cultura", Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 ,discovery-science-usa
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Canales de Cine", Fox Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 9 (Pop)
-https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
+#EXTINF:-1 ,History Channel HD
+http://190.90.154.73:8080/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 5 (Tropical mix)
-https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
+#EXTINF:-1 ,Cinemax
+http://190.90.154.73:8080/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 12 (Onda disco)
-https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
+#EXTINF:-1 ,City TV
+http://190.90.154.73:8080/play/a08a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 11 (Rock latino)
-https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
+#EXTINF:-1 ,Discovery HD
+http://200.95.184.42:8001/play/a0e1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 9 (70, 80, 90s)
-https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
+#EXTINF:-1 ,Discovery Theater HD
+http://200.95.184.42:8001/play/a0am
 
 #EXTINF:-1 ,radio="true" tvg-logo="" group-title="Radios Online", FOX News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
@@ -256,11 +256,11 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Deportes", SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Canales de Cine", Western
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 ,Musicales-Esp
+https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 ,musica-Esp
+https://video20.klm99.com:3959/stream/play.m3u8
 
 #EXTINF:-1 ,caribe
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
@@ -271,11 +271,11 @@ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 #EXTINF:-1 ,Cine
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 ,24horas-españa
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 ,tvnmusica
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0006
 
-#EXTINF:-1 ,NegociosTv
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 ,musica
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
 
 #EXTINF:-1 ,Top-latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -394,29 +394,29 @@ https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 #EXTINF:-1 ,Aficionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,Claro-Sport-hd
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 ,bein-sport
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,fox-sport-3
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
-#EXTINF:-1 ,espn
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+#EXTINF:-1 ,tudn
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,ESPN
-https://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+#EXTINF:-1 ,real-madrid
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,espn-premium
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
+#EXTINF:-1 ,cnn
+https://linear-358.frequency.stream/dist/vix/358/hls/master/playlist.m3u8
 
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:-1 ,FUTBOL ESPAÑA 2
-https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
+#EXTINF:-1 ,Adrenalina
+https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
 
-#EXTINF:-1, FUTBOL ESPAÑA
-https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
+#EXTINF:-1 ,Banda-max
+https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8 
 
 #EXTINF:-1 ,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -439,28 +439,49 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1  ,HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
-#EXTINF: ,FUTBOL ESPAÑA 3
-https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
+#EXTINF: ,ovacion de peru
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1,Novelas de Oro
-https://linear-429.frequency.stream/429/hls/master/playlist.m3u8
+#EXTINF:-1,canal 10 mexico
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1,Telehit Musica
-https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
-
-#EXTINF:-1,ESTADIO TNT
-http://50.7.66.234:8080/moontools/6548@89787/6979
+#EXTINF:-1,solo-bailalo
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
 #EXTINF:-1,TNT SPORTS 3
 http://50.7.66.234:8080/moontools/6548@89787/1068349
 
-#EXTINF:-1,CINP - STARZ WESTERN HD
-http://50.7.66.234:8080/moontools/6548@89787/8134
+#EXTINF:-1,planeta-tv
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
-#EXTINF:-1,UNIVERSAL PREMIER OESTE
-http://50.7.66.234:8080/moontools/6548@89787/1119201
+#EXTINF:-1,GARAGE TV
+http://50.7.66.234:8080/moontools/6548@89787/4016
 
-#EXTINF:-1,HBO PLUS +
-http://50.7.66.234:8080/moontools/6548@89787/4003
+#EXTINF:-1,TEENNICK
+http://50.7.66.234:8080/moontools/6548@89787/4140
+
+#EXTINF:-1,CINEMA DINAMITA
+http://50.7.66.234:8080/moontools/6548@89787/4142
+
+#EXTINF:-1,TVC DEPORTES
+http://50.7.66.234:8080/moontools/6548@89787/4139
+
+#EXTINF:-1,ESPN MX
+http://50.7.66.234:8080/moontools/6548@89787/3178
+
+#EXTINF:-1,FOX SPORTS 1 HD (CHILE)
+http://50.7.66.234:8080/moontools/6548@89787/3612
+
+#EXTINF:-1,ESPN 1 SUR HD
+http://50.7.66.234:8080/moontools/6548@89787/3614
+
+#EXTINF:-1,HBO XTREME
+http://50.7.66.234:8080/moontools/6548@89787/44341
+
+#EXTINF:-1,CINP - MOVIE MAX
+http://50.7.66.234:8080/moontools/6548@89787/8144
+
+#EXTINF:-1,ESTADIO TNT
+http://50.7.66.234:8080/moontools/6548@89787/6979
 
 
