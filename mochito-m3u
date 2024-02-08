@@ -412,6 +412,9 @@ https://linear-358.frequency.stream/dist/vix/358/hls/master/playlist.m3u8
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
+#EXTINF:-1 ,Discovery-ch
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1067
+
 #EXTINF:-1 ,Adrenalina
 https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
 
@@ -436,8 +439,14 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1  ,History
 http://45.166.92.22:58001/play/a038/index.m3u8
 
+#EXTINF:-1 ,H2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1074
+
 #EXTINF:-1  ,HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF:-1 ,HB
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1031
 
 #EXTINF: ,ovacion de peru
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -472,29 +481,10 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1,sport1
 http://seckin.cfd:8080/nailcex14c/mailxx45/137245
 
-#EXTINF:-1,Eleven2
-http://jokerprotectd.xyz:8080/JoaoSilva/45465423/46519
+#EXTINF:-1 ,Sport2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 
 #EXTINF:-1,espn
 https://mlb.mrgamingstreams.com/espnd.m3u8
-
-#EXTINF:-1,setanta
-https://tv.movielab.pro/942/video.m3u8
-
-#EXTINF:-1,tv1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1,Stadio-sd
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/130551
-
-#EXTINF:-1 ,Espn
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128773
-
-#EXTINF:-1 ,Esp
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132654
-
-#EXTINF:-1 ,hbo
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127142
-
-#EXTINF:-1 ,paramount
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127141
+#EXTINF:-1 ,history
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1075
