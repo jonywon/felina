@@ -370,6 +370,9 @@ https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF:-1  ,CDR
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
 
+#EXTINF:-1 ,Dsp2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/956
+
 #EXTINF:-1  ,Es2-F
 http://45.166.92.22:58001/play/a01i/index.m3u8
 
@@ -411,7 +414,10 @@ https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 
 #EXTINF:-1,Sp2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
-
+#EXTINF:-1 ,sp2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/979
+#EXTINF:-1 ,spo2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 #EXTINF:-1,Sp3
 http://181.78.4.186:8000/play/a0fh/index.m3u8
 
@@ -420,6 +426,8 @@ http://181.78.4.186:8000/play/a0el/index.m3u8
 
 #EXTINF:-1,E4
 http://181.78.4.186:8000/play/a0fu/index.m3u8
+#EXTINF:-1 ,Depor
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1002
 
 #EXTINF:-1,es4
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
@@ -484,7 +492,11 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1062
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1063
 #EXTINF:-1  ,HB1
 http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 ,CINE
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1039
 
+#EXTINF:-1 ,CINE
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1040
 #EXTINF:-1 ,HB
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1031
 
