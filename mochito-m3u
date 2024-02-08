@@ -370,19 +370,19 @@ https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF:-1  ,CDR
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
 
-#EXTINF:-1  ,Espn2-Futbol
+#EXTINF:-1  ,Es2-F
 http://45.166.92.22:58001/play/a01i/index.m3u8
 
-#EXTINF:-1  ,Espn3
+#EXTINF:-1  ,Es3
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
-#EXTINF:-1  ,Espn
+#EXTINF:-1  ,Es
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
-#EXTINF:-1  ,Fox-Sport3
+#EXTINF:-1  ,FSp3
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1  ,Fox-Sport
+#EXTINF:-1  ,FSp3
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1  ,Deportes
@@ -397,7 +397,7 @@ https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 ,bein-sport
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,fox-sport-3
+#EXTINF:-1 ,fsp3
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 ,tudn
@@ -405,6 +405,33 @@ https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,real-madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+#EXTINF:-1,Lo Mejor Liga MX
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+
+#EXTINF:-1,Sp2
+http://181.78.4.186:8000/play/a0fg/index.m3u8
+
+#EXTINF:-1,Sp3
+http://181.78.4.186:8000/play/a0fh/index.m3u8
+
+#EXTINF:-1,E2
+http://181.78.4.186:8000/play/a0el/index.m3u8
+
+#EXTINF:-1,E4
+http://181.78.4.186:8000/play/a0fu/index.m3u8
+
+#EXTINF:-1,es4
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
+#EXTINF:-1,e1
+https://mlb.mrgamingstreams.com/espnd.m3u8
+
+#EXTINF:-1,s1
+http://seckin.cfd:8080/nailcex14c/mailxx45/137245
+
+#EXTINF:-1 ,Sp2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 
 #EXTINF:-1 ,cnn
 https://linear-358.frequency.stream/dist/vix/358/hls/master/playlist.m3u8
@@ -427,22 +454,35 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 ,Golden-plus
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,Golden-premier
+#EXTINF:-1 ,Golden-prem
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 ,De-pelicula
+#EXTINF:-1 ,De-peli
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
-#EXTINF:-1  ,History
+#EXTINF:-1  ,Hi
 http://45.166.92.22:58001/play/a038/index.m3u8
 
 #EXTINF:-1 ,H2
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1074
 
-#EXTINF:-1  ,HBO
+#EXTINF:-1 ,his
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1075
+
+#EXTINF:-1 ,hi
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1073
+#EXTINF:-1 ,M2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1065
+#EXTINF:-1 ,his
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1061
+#EXTINF:-1 ,his
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1062
+#EXTINF:-1 ,his
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1063
+#EXTINF:-1  ,HB1
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
 #EXTINF:-1 ,HB
@@ -460,31 +500,4 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 #EXTINF:-1,Tv-exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Lo Mejor Liga MX
-https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 
-#EXTINF:-1,Fox Sports 2
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-
-#EXTINF:-1,Fox Sports 3
-http://181.78.4.186:8000/play/a0fh/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://181.78.4.186:8000/play/a0el/index.m3u8
-
-#EXTINF:-1,ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
-
-#EXTINF:-1,esport4
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1,sport1
-http://seckin.cfd:8080/nailcex14c/mailxx45/137245
-
-#EXTINF:-1 ,Sport2
-http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
-
-#EXTINF:-1,espn
-https://mlb.mrgamingstreams.com/espnd.m3u8
-#EXTINF:-1 ,history
-http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1075
