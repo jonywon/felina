@@ -451,8 +451,8 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
 #EXTINF:-1 ,Sp2
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
-#EXTINF:-1 ,E1Por
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+#EXTINF:-1 ,E1Por-prueba
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.m3u8
 #EXTINF:-1 ,E1Por
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
 #EXTINF:-1 ,E1Por
@@ -518,7 +518,8 @@ http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/325
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 ,CINE
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1039
-
+#EXTINF:-1,HB
+http://50.7.66.234:8080/moontools/6548@89787/4003
 #EXTINF:-1 ,CINE
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1040
 #EXTINF:-1 ,HB
@@ -535,8 +536,8 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
 #EXTINF:-1,Tv-exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,P
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.ts
+#EXTINF:-1 ,Prueba
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.m3u8
 #EXTINF:-1 ,para
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/337
 
