@@ -418,9 +418,6 @@ https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 ,real-madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-#EXTINF:-1,Lo Mejor Liga MX
-https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
-
 #EXTINF:-1,Sp2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
 #EXTINF:-1 ,sp2
@@ -429,7 +426,8 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/979
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 #EXTINF:-1,Sp3
 http://181.78.4.186:8000/play/a0fh/index.m3u8
-
+#EXTINF:-1 ,E
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3596.ts
 #EXTINF:-1,E2
 http://181.78.4.186:8000/play/a0el/index.m3u8
 
@@ -440,18 +438,33 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1002
 
 #EXTINF:-1,es4
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
+#EXTINF:-1 ,E-extra
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
 #EXTINF:-1,e1
 https://mlb.mrgamingstreams.com/espnd.m3u8
 
 #EXTINF:-1,s1
 http://seckin.cfd:8080/nailcex14c/mailxx45/137245
-
+#EXTINF:-1 ,TS
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+#EXTINF:-1 ,TS2
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
 #EXTINF:-1 ,Sp2
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
-
-#EXTINF:-1 ,cnn
-https://linear-358.frequency.stream/dist/vix/358/hls/master/playlist.m3u8
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36910.ts
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36911.ts
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36912.ts
+#EXTINF:-1 ,E1Por
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
+#EXTINF:-1 ,LaLig
+http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/199
 
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
@@ -499,6 +512,8 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1061
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1062
 #EXTINF:-1 ,his
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1063
+#EXTINF:-1 ,H
+http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/325
 #EXTINF:-1  ,HB1
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 ,CINE
@@ -520,7 +535,8 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
 #EXTINF:-1,Tv-exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 ,P
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.ts
 #EXTINF:-1 ,para
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/337
 
