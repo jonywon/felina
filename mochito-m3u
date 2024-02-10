@@ -426,7 +426,7 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/979
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 #EXTINF:-1,Sp3
 http://181.78.4.186:8000/play/a0fh/index.m3u8
-#EXTINF:-1 ,E
+#EXTINF:-1 ,E-ts
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3596.ts
 #EXTINF:-1,E2
 http://181.78.4.186:8000/play/a0el/index.m3u8
@@ -438,34 +438,38 @@ http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1002
 
 #EXTINF:-1,es4
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1 ,E-extra
+#EXTINF:-1 ,E-extra-ts
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
 #EXTINF:-1,e1
 https://mlb.mrgamingstreams.com/espnd.m3u8
-
+#EXTINF:-1 ,Sp2
+http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
 #EXTINF:-1,s1
 http://seckin.cfd:8080/nailcex14c/mailxx45/137245
-#EXTINF:-1 ,TS
+#EXTINF:-1 ,TS-1
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
 #EXTINF:-1 ,TS2
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
-#EXTINF:-1 ,Sp2
-http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1020
-#EXTINF:-1 ,E1Por-prueba
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.m3u8
-#EXTINF:-1 ,E1Por
+#EXTINF:-1 ,Bsp-ts
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/17877.ts
+#EXTINF:-1 ,E1P
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+#EXTINF:-1 ,E1Po
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
 #EXTINF:-1 ,E1Por
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36910.ts
-#EXTINF:-1 ,E1Por
+#EXTINF:-1 ,E1Por1
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36911.ts
-#EXTINF:-1 ,E1Por
+#EXTINF:-1 ,E1Por2
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36912.ts
-#EXTINF:-1 ,E1Por
+#EXTINF:-1 ,E1Por3-ts-9
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
+#EXTINF:-1 ,Es2-Ts
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/29704.ts
 #EXTINF:-1 ,LaLig
 http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/199
-
+#EXTINF:-1 ,Dscience-ts
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6033.ts
 #EXTINF:-1  ,Discovery-channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
@@ -536,8 +540,12 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
 #EXTINF:-1,Tv-exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Prueba
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.m3u8
+#EXTINF:-1 ,Tnt-Pr-Ts
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/5917.ts
+#EXTINF:-1 ,TntSpo-Pr-Ts
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/5915.ts
+#EXTINF:-1 ,Pr-ts
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.ts
 #EXTINF:-1 ,para
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/337
 
