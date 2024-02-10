@@ -496,7 +496,8 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,De-peli
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
+#EXTINF:-1 .Hprueba
+http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1  ,Hi
 http://45.166.92.22:58001/play/a038/index.m3u8
 
