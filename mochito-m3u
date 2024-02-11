@@ -496,7 +496,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,De-peli
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 .Hprueba
+#EXTINF:-1 ,Hprueba
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1  ,Hi
 http://45.166.92.22:58001/play/a038/index.m3u8
@@ -545,6 +545,8 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/5917.ts
 #EXTINF:-1 ,TntSpo-Pr-Ts
 http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/5915.ts
+#EXTINF:-1 ,TnSpo-pru
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 ,Pr-ts
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.ts
 #EXTINF:-1 ,para
