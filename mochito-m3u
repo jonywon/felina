@@ -468,6 +468,14 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/29704.ts
 #EXTINF:-1 ,LaLig
 http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/199
+#EXTINF:-1 ,f-mx
+https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
+#EXTINF:-1 ,Cha
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+#EXTINF:-1 ,f-mx
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+#EXTINF:-1 ,scoch
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
 #EXTINF:-1 ,Dscience-ts
 http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6033.ts
 #EXTINF:-1  ,Discovery-channel
@@ -493,14 +501,16 @@ https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
+#EXTINF:-1 ,wes
+https://linear-467.frequency.stream/mt/studio/467/hls/master/playlist.m3u8
 #EXTINF:-1 ,De-peli
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 ,Hprueba
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1  ,Hi
 http://45.166.92.22:58001/play/a038/index.m3u8
-
+#EXTINF:-1 ,Tele
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 ,H2
 http://europass.site:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1074
 
