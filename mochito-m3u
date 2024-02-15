@@ -561,10 +561,32 @@ http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1789.ts
 #EXTINF:-1 ,para
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/337
-
 #EXTINF:-1 ,para2
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/14130
+#EXTINF:-1 ,ESPN
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6013.ts
 
+#EXTINF:-1 ,TD7 
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/5919.ts
+#EXTINF:-1 ,F-3
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6014.ts
+
+#EXTINF:-1 ,F-2
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6015.ts
+
+#EXTINF:-1 ,F-1
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6016.ts
+
+#EXTINF:-1 ,TI
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6018.ts
+
+#EXTINF:-1 ,TO
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6019.ts
+#EXTINF:-1 ,D-G
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6038.ts
+
+#EXTINF:-1 ,D-
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/6039.ts
 #EXTINF:-1 ,Zumba
 http://user.ttvrilieos.xyz:8080/joseWeib-TV/A5wjQDud0T/46469
 
